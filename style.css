@@ -5,14 +5,14 @@ body {
 
 }
 
-.donate-txt-1 h1 {
+.donate-txt-0 h1 {
     color: #fff;
     font-size: 4em;
     margin: 0;
     padding-top: 150px;
 }
 
-.donate-txt-1 p {
+.donate-txt-0 p {
     color: #fff;
     font-size: 2em;
     padding-bottom: 25px;
@@ -41,12 +41,12 @@ body {
     margin-top: 100px;
 }
 
-.donate-txt-2 h1 {
+.donate-txt-1 h1 {
     font-size: 3em;
     margin: 0;
 }
 
-.donate-txt-2 p {
+.donate-txt-1 p {
     color: #9D9D9D;
     font-size: 25px;
 }
@@ -84,4 +84,32 @@ body {
 
 .btn-area {
     margin-top: 50px;
+}
+
+.third-section {
+    text-align: center;
+    margin-top: 150px;
+}
+
+.plan-area {}
+
+.plan1 {
+    width: 20%;
+    text-align: left;
+    padding: 70px 20px 70px 20px;
+    display: inline-block;
+    margin-right: 25px;
+    border-radius: 5px;
+}
+
+#plan-bg1 {
+    background-color: #EDF5F6;
+}
+
+#plan-bg2 {
+    background-color: #FFEEEE;
+}
+
+#plan-bg3 {
+    background-color: #FFF4D6;
 }
