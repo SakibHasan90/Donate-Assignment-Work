@@ -118,6 +118,7 @@ body {
 
 .forth-section {
     margin-top: 150px;
+    margin-bottom: 120px;
     display: flex;
 }
 
@@ -186,4 +187,24 @@ body {
     padding: 15px 40px 15px 40px;
     border-top-right-radius: 5px;
     border-bottom-right-radius: 5px;
+}
+
+footer {
+
+    background-color: black;
+    text-align: center;
+    padding: 50px;
+    margin-top: 150px;
+}
+
+footer h1 {
+
+    color: tomato;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+footer h3 {
+
+    color: white;
+    margin: 0;
 }
