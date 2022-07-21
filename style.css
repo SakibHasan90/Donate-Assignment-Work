@@ -82,6 +82,20 @@ body {
 
 }
 
+#amount {
+    width: 100%;
+    padding: 15px;
+    text-align: center;
+    font-size: 20px;
+    border: none;
+
+}
+
+#amount:focus {
+    color: #ff5959;
+}
+
+
 .btn-area {
     margin-top: 50px;
 }
